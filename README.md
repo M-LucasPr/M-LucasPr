@@ -12,7 +12,9 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=M-LucasPr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
- 
+ <p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 </p>
 </p>
 
