@@ -3,14 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,python,go,)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />   Estatísticas:
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=M-LucasPr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+
 <p>
   <img 
     align="left" 
