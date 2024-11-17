@@ -1,6 +1,6 @@
  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" />   Linguagens e Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,md,vscode,python,golang,KOTLIN,)](#)
+[![My Skills](https://skillicons.dev/icons?i=git,github,md,vscode,python,golang,kotlin,)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />   Estatísticas:
 
